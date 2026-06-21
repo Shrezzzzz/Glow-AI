@@ -246,7 +246,7 @@ Glow-AI
 Clone the repository
 
 ```bash
-git clone https://github.com/Shrezzzzz/Glow-AI.git
+git clone https://github.com/Shrezzzzz/GLOW-AI.git
 
 cd Glow-AI
 ```
